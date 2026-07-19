@@ -1,15 +1,17 @@
-<h1 align="center">https://www.danielbellido.com/</h1>
-<!--
-**xDanielBellido/xDanielBellido** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+  <a href="https://www.danielbellido.com/portfolio">
+    <img
+      src="portfolio_img.jpg"
+      alt="Daniel Bellido — Game Programming Portfolio"
+      width="100%"
+    />
+  </a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br><br>
+
+  <a href="https://www.danielbellido.com/portfolio">
+    <strong>VIEW MY FULL PORTFOLIO →</strong>
+  </a>
+
+</div>
