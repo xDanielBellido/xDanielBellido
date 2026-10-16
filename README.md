@@ -21,7 +21,7 @@
     <td align="center">
       <a href="https://www.danielbellido.com/portfolio">
         <img
-          src="portfolio_img.jpg"
+          src="Portfolio.png"
           alt="Daniel Bellido — Game Programming Portfolio"
           width="1000"
         />
